@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",MASIH DALAM PERBAIKAN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",UPDATE 24-4-2025
 https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -997,7 +997,7 @@ http://extraott.com:900/live/3162523972/3791698850/191776.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191770.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GOLF
 http://ktv.im:8080/live/12348765/12348765/463669.ts
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GRANDSTAND
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GRANDSTAND
 http://extraott.com:900/live/3162523972/3791698850/190002.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT VARIETY1
 http://extraott.com:900/live/3162523972/3791698850/190007.m3u8
